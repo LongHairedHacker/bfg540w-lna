@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name tzc3)(type KiCad)(uri "$(KIPRJMOD)/lib/tzc3.pretty")(options "")(descr ""))
+  (lib (name SM1008)(type KiCad)(uri "$(KIPRJMOD)/lib/SM1008.pretty")(options "")(descr ""))
+  (lib (name rfshield)(type KiCad)(uri "$(KIPRJMOD)/lib/rfshield.pretty")(options "")(descr ""))
+  (lib (name bfg540w)(type KiCad)(uri "$(KIPRJMOD)/lib/bfg540w.pretty")(options "")(descr ""))
+)
