@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew "(2016-01-14 BZR 6468, Git f15af3a)-product")
+(kicad_pcb (version 4) (host pcbnew 4.0.6)
 
   (general
     (links 67)
     (no_connects 20)
-    (area 111.924999 81.924999 162.575001 122.575001)
+    (area 95.150001 67.3 162.575001 122.575001)
     (thickness 1.6)
     (drawings 7)
     (tracks 84)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.75)
+    (last_trace_width 0.25)
     (user_trace_width 0.5)
     (user_trace_width 0.75)
     (user_trace_width 1)
@@ -70,7 +70,7 @@
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF7F)
     (pcbplotparams
-      (layerselection 0x00030_ffffffff)
+      (layerselection 0x00030_80000001)
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -91,9 +91,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory gerber/))
   )
 
   (net 0 "")
@@ -794,7 +794,7 @@
   (segment (start 134.874 98.171) (end 133.985 99.06) (width 1.5) (layer F.Cu) (net 3) (tstamp 56AF1219))
   (segment (start 134.62 96.139) (end 134.874 95.885) (width 0.75) (layer F.Cu) (net 3) (tstamp 56AF120F))
   (via (at 118.11 90.17) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 4))
-  (segment (start 118.11 92.71) (end 118.11 90.17) (width 0.75) (layer F.Cu) (net 4) (status 400000))
+  (segment (start 118.11 92.71) (end 118.11 90.17) (width 0.75) (layer F.Cu) (net 4))
   (via (at 119.38 116.205) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 4))
   (segment (start 119.38 116.205) (end 120.523 116.205) (width 0.75) (layer F.Cu) (net 4))
   (segment (start 142.28064 104.7115) (end 142.28064 103.46436) (width 0.75) (layer F.Cu) (net 4))

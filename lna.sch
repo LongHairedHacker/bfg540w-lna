@@ -34,12 +34,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "BFG540W - LNA"
 Date ""
 Rev ""
 Comp ""
-Comment1 ""
-Comment2 ""
+Comment1 "Original design by yu1aw"
+Comment2 "http://www.qsl.net/yu1aw/LNA/bfp196peng.htm"
 Comment3 ""
 Comment4 ""
 $EndDescr

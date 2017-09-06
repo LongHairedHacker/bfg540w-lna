@@ -12,12 +12,10 @@ Of the shelf
 | 33pF 0603         | C0603C330J5GACTU  |
 | 680pF 0603		| CL10B681KB8NNNC   |
 | 22nF 0603			| CL10B223KB8SFNC   |
-| 82 0603			|
-| 1k 0803			|
-| 47k 0603			|
-| 1uF				| UWJ1H010MCL1GB 
-
-
+| 82 0603			|                   |
+| 1k 0803			|                   |
+| 47k 0603			|                   |
+| 1uF				| UWJ1H010MCL1GB    |
 
 Selfwound coils
 ===============
